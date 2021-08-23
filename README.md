@@ -29,7 +29,7 @@ npm i
 Instalar o Backend:
 ```
 cd backend
-npm i
+yarn
 ```
 
 ## ☕ Usando <Books_Vue_NodeJs>
@@ -38,8 +38,8 @@ Para usar <Books_Vue_NodeJs>, siga estas etapas:
 
 Executar o Frontend:
 ```
-cd backend
-yarn
+cd frontend
+npm run serve
 ```
 
 Executar o Backend:
