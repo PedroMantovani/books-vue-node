@@ -34,7 +34,7 @@ npm i
 
 ## ☕ Usando <Books_Vue_NodeJs>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar <Books_Vue_NodeJs>, siga estas etapas:
 
 Executar o Frontend:
 ```
